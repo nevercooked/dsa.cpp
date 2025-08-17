@@ -1,8 +1,5 @@
-# dsa.cpp
-Collection of LeetCode questions to ace the coding interview!
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
+<!---DSA Topics-->
+# DSA Topics
 ## Array
 |  |
 | ------- |
@@ -38,4 +35,4 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/samirjout/dsa.cpp/tree/master/0128-longest-consecutive-sequence) |
-<!---LeetCode Topics End-->
+<!---DSA Topics-->
