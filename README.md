@@ -1,4 +1,4 @@
-<!---DSA Topics-->
+<!---LeetCode Topics Start-->
 # DSA Topics
 ## Array
 |  |
@@ -31,10 +31,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/samirjout/dsa.cpp/tree/master/0128-longest-consecutive-sequence) |
-<!---DSA Topics-->
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
 ## Two Pointers
 |  |
 | ------- |
