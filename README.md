@@ -1,5 +1,5 @@
 <!---LeetCode Topics Start-->
-# DSA Topics
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
@@ -22,7 +22,6 @@
 | [0049-group-anagrams](https://github.com/samirjout/dsa.cpp/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/samirjout/dsa.cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samirjout/dsa.cpp/tree/master/0242-valid-anagram) |
-
 ## Prefix Sum
 |  |
 | ------- |
@@ -31,7 +30,6 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/samirjout/dsa.cpp/tree/master/0128-longest-consecutive-sequence) |
-
 ## Two Pointers
 |  |
 | ------- |
