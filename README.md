@@ -22,11 +22,7 @@
 | [0049-group-anagrams](https://github.com/samirjout/dsa.cpp/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/samirjout/dsa.cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samirjout/dsa.cpp/tree/master/0242-valid-anagram) |
-## String
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/samirjout/dsa.cpp/tree/master/0049-group-anagrams) |
-| [0242-valid-anagram](https://github.com/samirjout/dsa.cpp/tree/master/0242-valid-anagram) |
+
 ## Prefix Sum
 |  |
 | ------- |
@@ -36,3 +32,17 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/samirjout/dsa.cpp/tree/master/0128-longest-consecutive-sequence) |
 <!---DSA Topics-->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/samirjout/dsa.cpp/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/samirjout/dsa.cpp/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/samirjout/dsa.cpp/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/samirjout/dsa.cpp/tree/master/0242-valid-anagram) |
+<!---LeetCode Topics End-->
