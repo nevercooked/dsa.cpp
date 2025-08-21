@@ -10,11 +10,10 @@
  */
 class Solution {
 public:
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
+    ListNode* mergeKLists(vector<ListNode*>& nodes) {
         const auto&            dummy = std::make_shared<ListNode>();
         ListNode*              ptr   = dummy.get();
-        std::vector<ListNode*> nodes(lists.begin(), lists.end());
-        while (!std::all_of(nodes.begin(), nodes.end(), [](ListNode* node) -> bool { return node == nullptr; })) {
+        while (std::any_of(nodes.begin(), nodes.end(), [](ListNode* const& node) -> bool { return node != nullptr; })) {
             ListNode* minimumNode = nullptr;
             int       idx = 0;
             for (int i = 0; i < nodes.size(); ++i) {
