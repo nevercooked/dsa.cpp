@@ -25,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/samirjout/dsa.cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samirjout/dsa.cpp/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/samirjout/dsa.cpp/tree/master/0424-longest-repeating-character-replacement) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/samirjout/dsa.cpp/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0125-valid-palindrome](https://github.com/samirjout/dsa.cpp/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/samirjout/dsa.cpp/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/samirjout/dsa.cpp/tree/master/0424-longest-repeating-character-replacement) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/samirjout/dsa.cpp/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -159,4 +161,8 @@
 | [0098-validate-binary-search-tree](https://github.com/samirjout/dsa.cpp/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/samirjout/dsa.cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/samirjout/dsa.cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/samirjout/dsa.cpp/tree/master/2532-remove-letter-to-equalize-frequency) |
 <!---LeetCode Topics End-->
