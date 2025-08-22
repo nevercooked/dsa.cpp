@@ -15,6 +15,7 @@
 | [0238-product-of-array-except-self](https://github.com/samirjout/dsa.cpp/tree/master/0238-product-of-array-except-self) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/samirjout/dsa.cpp/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
+| [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/samirjout/dsa.cpp/tree/master/3355-minimum-levels-to-gain-more-points) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@
 | [0217-contains-duplicate](https://github.com/samirjout/dsa.cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samirjout/dsa.cpp/tree/master/0242-valid-anagram) |
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
+| [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -75,10 +77,12 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/samirjout/dsa.cpp/tree/master/0011-container-with-most-water) |
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
+| [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samirjout/dsa.cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
 ## Sliding Window
 |  |
 | ------- |
@@ -177,4 +181,16 @@
 | ------- |
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samirjout/dsa.cpp/tree/master/2532-remove-letter-to-equalize-frequency) |
+## Backtracking
+|  |
+| ------- |
+| [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
+## Enumeration
+|  |
+| ------- |
+| [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
 <!---LeetCode Topics End-->
