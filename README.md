@@ -13,6 +13,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samirjout/dsa.cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/samirjout/dsa.cpp/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/samirjout/dsa.cpp/tree/master/0238-product-of-array-except-self) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/samirjout/dsa.cpp/tree/master/0951-partition-array-into-disjoint-intervals) |
 ## Hash Table
 |  |
 | ------- |
