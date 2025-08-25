@@ -34,6 +34,7 @@
 | [0217-contains-duplicate](https://github.com/samirjout/dsa.cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samirjout/dsa.cpp/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/samirjout/dsa.cpp/tree/master/0424-longest-repeating-character-replacement) |
+| [0900-reordered-power-of-2](https://github.com/samirjout/dsa.cpp/tree/master/0900-reordered-power-of-2) |
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/samirjout/dsa.cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samirjout/dsa.cpp/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -45,6 +46,7 @@
 | [0049-group-anagrams](https://github.com/samirjout/dsa.cpp/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/samirjout/dsa.cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samirjout/dsa.cpp/tree/master/0242-valid-anagram) |
+| [0900-reordered-power-of-2](https://github.com/samirjout/dsa.cpp/tree/master/0900-reordered-power-of-2) |
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/samirjout/dsa.cpp/tree/master/3712-minimum-cost-to-make-arrays-identical) |
@@ -195,6 +197,7 @@
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/samirjout/dsa.cpp/tree/master/0900-reordered-power-of-2) |
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samirjout/dsa.cpp/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Backtracking
@@ -209,10 +212,12 @@
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/samirjout/dsa.cpp/tree/master/0900-reordered-power-of-2) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
 ## Math
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/samirjout/dsa.cpp/tree/master/0900-reordered-power-of-2) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/samirjout/dsa.cpp/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 ## Matrix
 |  |
