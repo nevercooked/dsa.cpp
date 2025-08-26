@@ -119,6 +119,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/samirjout/dsa.cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samirjout/dsa.cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/samirjout/dsa.cpp/tree/master/0278-first-bad-version) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/samirjout/dsa.cpp/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/samirjout/dsa.cpp/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Linked List
@@ -237,4 +238,8 @@
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/samirjout/dsa.cpp/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/samirjout/dsa.cpp/tree/master/2227-sum-of-subarray-ranges) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/samirjout/dsa.cpp/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
