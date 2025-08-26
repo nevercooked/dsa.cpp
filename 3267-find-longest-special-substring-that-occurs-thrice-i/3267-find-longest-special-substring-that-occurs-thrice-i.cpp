@@ -1,22 +1,37 @@
 class Solution {
+private:
+    bool findSpecialSubstrings(const std::string& s, const int& x) {
+        std::vector<int> freqs(26, 0);
+        int              i = 0;
+        for (int j = 0; j < s.size(); ++j) {
+            while (s[i] != s[j]) {
+                i += 1;
+            }
+            if (j - i + 1 >= x) {
+                freqs[s[j] - 'a'] += 1;
+            }
+            if (freqs[s[j] - 'a'] > 2) {
+                return true;
+            }
+        }
+        return false;
+    }
 public:
-    int maximumLength(std::string s) {
-        std::unordered_map<std::string, int> freqs;
-        for (int i = 0; i < s.size(); ++i) {
-            for (int j = i; j < s.size(); ++j) {
-                if (j > i && s[j] != s[j - 1]) {
-                    break;
-                }
-                std::string ss = s.substr(i, j - i + 1);
-                freqs[ss] += 1;
+    int maximumLength(const std::string& s) {
+        int i = 1;
+        int j = s.size();
+        if (!findSpecialSubstrings(s, 1)) {
+            return -1;
+        }
+        while (i + 1 < j) {
+            int mid = (i + j) / 2;
+            if (findSpecialSubstrings(s, mid)) {
+                i = mid;
+            }
+            else {
+                j = mid;
             }
         }
-        int longest = -1;
-        for (const auto& [ss, freq] : freqs) {
-            if (freq >= 3) {
-                longest = std::max(longest, static_cast<int>(ss.size()));
-            }
-        }
-        return longest;
+        return i;
     }
 };
