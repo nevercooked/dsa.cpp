@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/samirjout/dsa.cpp/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/samirjout/dsa.cpp/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samirjout/dsa.cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/samirjout/dsa.cpp/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/samirjout/dsa.cpp/tree/master/0367-valid-perfect-square) |
@@ -225,6 +226,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/samirjout/dsa.cpp/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/samirjout/dsa.cpp/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/samirjout/dsa.cpp/tree/master/0441-arranging-coins) |
 | [0900-reordered-power-of-2](https://github.com/samirjout/dsa.cpp/tree/master/0900-reordered-power-of-2) |
