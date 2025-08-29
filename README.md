@@ -229,6 +229,7 @@
 | [0441-arranging-coins](https://github.com/samirjout/dsa.cpp/tree/master/0441-arranging-coins) |
 | [0900-reordered-power-of-2](https://github.com/samirjout/dsa.cpp/tree/master/0900-reordered-power-of-2) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/samirjout/dsa.cpp/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/samirjout/dsa.cpp/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Matrix
 |  |
 | ------- |
