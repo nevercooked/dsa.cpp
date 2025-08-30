@@ -1,23 +1,31 @@
 class Solution {
 public:
     int findMinimum(const std::vector<int>& nums) {
-        int start = 0;
-        int end   = nums.size() - 1;
-        while (start < end) {
-            int mid = start + (end - start) / 2;
-            (nums[mid] > nums[end]) ? start = mid + 1 : end = mid;
+        int left  = 0;
+        int right = nums.size() - 1; 
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            if (nums[mid] <= nums[nums.size() - 1]) {
+                right = mid - 1;
+            } else {
+                left = mid + 1;
+            }
         }
-        return start;
+        return left;
     }
     int search(vector<int>& nums, int target) {
         int inflection = findMinimum(nums);
-        int start = 0;
-        int end   = nums.size() - 1;
-        (target <= nums[end]) ? start = inflection : end = inflection - 1;
-        while (start <= end) {
-            int mid = start + (end - start) / 2;
-            if (nums[mid] == target) return mid;
-            (nums[mid] > target) ? end = mid - 1 : start = mid + 1;
+        int left       = target <= nums[nums.size() - 1] ? inflection : 0;
+        int right      = target <= nums[nums.size() - 1] ? nums.size() - 1: std::max(0, inflection - 1);
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            if (nums[mid] == target) {
+                return mid;
+            } else if (nums[mid] > target) {
+                right = mid - 1;
+            } else {
+                left = mid + 1;
+            }
         }
         return -1;
     }
