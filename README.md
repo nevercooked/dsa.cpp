@@ -14,6 +14,7 @@
 | [0162-find-peak-element](https://github.com/samirjout/dsa.cpp/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/samirjout/dsa.cpp/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/samirjout/dsa.cpp/tree/master/0238-product-of-array-except-self) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/samirjout/dsa.cpp/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0943-sum-of-subarray-minimums](https://github.com/samirjout/dsa.cpp/tree/master/0943-sum-of-subarray-minimums) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/samirjout/dsa.cpp/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
@@ -125,6 +126,7 @@
 | [0278-first-bad-version](https://github.com/samirjout/dsa.cpp/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/samirjout/dsa.cpp/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/samirjout/dsa.cpp/tree/master/0441-arranging-coins) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/samirjout/dsa.cpp/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/samirjout/dsa.cpp/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/samirjout/dsa.cpp/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Linked List
