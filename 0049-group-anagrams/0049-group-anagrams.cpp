@@ -1,15 +1,16 @@
 class Solution {
 public:
-    vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        std::unordered_map<std::string, std::vector<std::string>> m;
+    std::vector<std::vector<std::string>> groupAnagrams(std::vector<std::string>& strs) {
+        std::unordered_map<std::string, std::vector<std::string>> groups;
         for (const auto& s : strs) {
             std::string ss = s;
             std::sort(ss.begin(), ss.end());
-            m[ss].push_back(s);
+            groups[ss].push_back(s);
         }
-        std::vector<std::vector<std::string>> anagrams;
-        for (const auto& [_, vec] : m)
-            anagrams.push_back(vec);
-        return anagrams;
+        std::vector<std::vector<std::string>> groupedAnagrams; 
+        for (auto& [_, group] : groups) {
+            groupedAnagrams.push_back(std::move(group));
+        }
+        return groupedAnagrams;
     }
 };
