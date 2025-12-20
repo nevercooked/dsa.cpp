@@ -1,17 +1,17 @@
 class Solution {
 public:
-    vector<int> productExceptSelf(vector<int>& nums) {
-        auto      product = std::vector<int>(nums.size(), 0);
-        long long accu    = 1;
-        for (int i = 0; i < product.size(); ++i) {
-            product[i] = accu;
-            accu      *= nums[i];
+    std::vector<int> productExceptSelf(std::vector<int>& nums) {
+        std::vector<int> ans = std::vector<int>(nums.size(), 1);
+        int              acc = nums[0];
+        for (int i = 1; i < nums.size(); ++i) {
+            ans[i] = acc;
+            acc   *= nums[i];
         }
-        accu = 1;
-        for (int i = product.size() - 1; i >= 0; --i) {
-            product[i] *= accu;
-            accu       *= nums[i];
+        acc = nums[nums.size() - 1];
+        for (int i = nums.size() - 2; i >= 0; --i) {
+            ans[i] *= acc;
+            acc    *= nums[i];
         }
-        return product;
+        return ans;
     }
 };
