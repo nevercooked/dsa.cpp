@@ -5,7 +5,6 @@ public:
             std::unordered_set<char> seen;
             for (const auto& e : row) {
                 if (!std::isdigit(e)) {
-                    std::cout << e << std::endl;
                     continue;
                 }
                 if (seen.find(e) != seen.end()) {
