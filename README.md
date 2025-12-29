@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/samirjout/dsa.cpp/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/samirjout/dsa.cpp/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/samirjout/dsa.cpp/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/nevercooked/dsa.cpp/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/samirjout/dsa.cpp/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samirjout/dsa.cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/samirjout/dsa.cpp/tree/master/0128-longest-consecutive-sequence) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/samirjout/dsa.cpp/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samirjout/dsa.cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/nevercooked/dsa.cpp/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/samirjout/dsa.cpp/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/samirjout/dsa.cpp/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/samirjout/dsa.cpp/tree/master/0128-longest-consecutive-sequence) |
@@ -247,6 +249,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/nevercooked/dsa.cpp/tree/master/0036-valid-sudoku) |
 | [2685-first-completely-painted-row-or-column](https://github.com/samirjout/dsa.cpp/tree/master/2685-first-completely-painted-row-or-column) |
 ## Rolling Hash
 |  |
