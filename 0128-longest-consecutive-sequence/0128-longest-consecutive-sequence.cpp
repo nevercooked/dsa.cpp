@@ -1,15 +1,15 @@
 class Solution {
 public:
-    int longestConsecutive(vector<int>& nums) {
-        auto s       = std::unordered_set<int>(nums.begin(), nums.end()); 
-        int  longest = 0;
+    int longestConsecutive(std::vector<int>& nums) {
+        std::unordered_set<int> s(nums.begin(), nums.end());
+        int                          longest = 0;
         for (const auto& n : s) {
             if (s.find(n - 1) == s.end()) {
-                int cpt = 1;
-                while (s.find(n + cpt) != s.end()) {
-                    cpt += 1;
+                int i = 1;
+                while (s.find(n + i) != s.end()) {
+                    i += 1;
                 }
-                longest = std::max(longest, cpt);
+                longest = std::max(longest, i);
             }
         }
         return longest;
