@@ -1,9 +1,8 @@
 class Solution {
 public:
-    bool isPalindrome(string s) {
+    bool isPalindrome(std::string s) {
         int i = 0;
         int j = s.size() - 1;
-
         while (i < j) {
             if (!std::isalnum(s[i])) {
                 i += 1;
@@ -19,7 +18,6 @@ public:
             i += 1;
             j -= 1;
         }
-
         return true;
     }
 };
