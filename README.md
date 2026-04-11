@@ -239,6 +239,7 @@
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/nevercooked/dsa.cpp/tree/master/0260-single-number-iii) |
+| [1054-complement-of-base-10-integer](https://github.com/nevercooked/dsa.cpp/tree/master/1054-complement-of-base-10-integer) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/samirjout/dsa.cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
 ## Enumeration
