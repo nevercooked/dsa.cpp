@@ -13,7 +13,7 @@ public:
             int j = indexes[x - 1];
             int k = indexes[x - 2];
             if (nums[i] == nums[j] && nums[i] == nums[k]) {
-                dist = min(dist, (i - j) + (i - k) + (j - k));
+                dist = min(dist, 2 * (i - k));
             }
         }
         return dist == numeric_limits<int>::max() ? -1 : dist;
