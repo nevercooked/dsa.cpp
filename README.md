@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/samirjout/dsa.cpp/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/samirjout/dsa.cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/nevercooked/dsa.cpp/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/nevercooked/dsa.cpp/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/samirjout/dsa.cpp/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samirjout/dsa.cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/samirjout/dsa.cpp/tree/master/0128-longest-consecutive-sequence) |
@@ -255,6 +256,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/nevercooked/dsa.cpp/tree/master/0039-combination-sum) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
 ## Bit Manipulation
 |  |
