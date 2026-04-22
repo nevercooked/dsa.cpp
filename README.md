@@ -10,6 +10,7 @@
 | [0036-valid-sudoku](https://github.com/nevercooked/dsa.cpp/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/nevercooked/dsa.cpp/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/samirjout/dsa.cpp/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/nevercooked/dsa.cpp/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samirjout/dsa.cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/samirjout/dsa.cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samirjout/dsa.cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -102,6 +103,7 @@
 | [0020-valid-parentheses](https://github.com/samirjout/dsa.cpp/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/samirjout/dsa.cpp/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/samirjout/dsa.cpp/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/nevercooked/dsa.cpp/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/samirjout/dsa.cpp/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/samirjout/dsa.cpp/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/samirjout/dsa.cpp/tree/master/0424-longest-repeating-character-replacement) |
@@ -203,6 +205,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nevercooked/dsa.cpp/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/samirjout/dsa.cpp/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/samirjout/dsa.cpp/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samirjout/dsa.cpp/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -257,6 +260,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/nevercooked/dsa.cpp/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/nevercooked/dsa.cpp/tree/master/0079-word-search) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
 ## Bit Manipulation
 |  |
@@ -286,6 +290,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nevercooked/dsa.cpp/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/nevercooked/dsa.cpp/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/nevercooked/dsa.cpp/tree/master/0463-island-perimeter) |
 | [1380-number-of-closed-islands](https://github.com/nevercooked/dsa.cpp/tree/master/1380-number-of-closed-islands) |
 | [2685-first-completely-painted-row-or-column](https://github.com/samirjout/dsa.cpp/tree/master/2685-first-completely-painted-row-or-column) |
