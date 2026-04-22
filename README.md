@@ -28,6 +28,7 @@
 | [2199-two-furthest-houses-with-different-colors](https://github.com/nevercooked/dsa.cpp/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2227-sum-of-subarray-ranges](https://github.com/samirjout/dsa.cpp/tree/master/2227-sum-of-subarray-ranges) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/samirjout/dsa.cpp/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2550-words-within-two-edits-of-dictionary](https://github.com/nevercooked/dsa.cpp/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2554-minimum-total-distance-traveled](https://github.com/nevercooked/dsa.cpp/tree/master/2554-minimum-total-distance-traveled) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nevercooked/dsa.cpp/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/samirjout/dsa.cpp/tree/master/2685-first-completely-painted-row-or-column) |
@@ -107,6 +108,7 @@
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/samirjout/dsa.cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/samirjout/dsa.cpp/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samirjout/dsa.cpp/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2550-words-within-two-edits-of-dictionary](https://github.com/nevercooked/dsa.cpp/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nevercooked/dsa.cpp/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/samirjout/dsa.cpp/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/samirjout/dsa.cpp/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -311,4 +313,8 @@
 | ------- |
 | [1380-number-of-closed-islands](https://github.com/nevercooked/dsa.cpp/tree/master/1380-number-of-closed-islands) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/nevercooked/dsa.cpp/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+## Trie
+|  |
+| ------- |
+| [2550-words-within-two-edits-of-dictionary](https://github.com/nevercooked/dsa.cpp/tree/master/2550-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
