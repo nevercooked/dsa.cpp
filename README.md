@@ -43,6 +43,7 @@
 | [3355-minimum-levels-to-gain-more-points](https://github.com/samirjout/dsa.cpp/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/samirjout/dsa.cpp/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3750-closest-equal-element-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3750-closest-equal-element-queries) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/nevercooked/dsa.cpp/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
@@ -144,6 +145,7 @@
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nevercooked/dsa.cpp/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2554-minimum-total-distance-traveled](https://github.com/nevercooked/dsa.cpp/tree/master/2554-minimum-total-distance-traveled) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -315,6 +317,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/nevercooked/dsa.cpp/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/samirjout/dsa.cpp/tree/master/2685-first-completely-painted-row-or-column) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Rolling Hash
 |  |
 | ------- |
