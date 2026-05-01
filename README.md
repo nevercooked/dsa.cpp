@@ -19,6 +19,7 @@
 | [0238-product-of-array-except-self](https://github.com/samirjout/dsa.cpp/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/nevercooked/dsa.cpp/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/nevercooked/dsa.cpp/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/nevercooked/dsa.cpp/tree/master/0396-rotate-function) |
 | [0463-island-perimeter](https://github.com/nevercooked/dsa.cpp/tree/master/0463-island-perimeter) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/samirjout/dsa.cpp/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0943-sum-of-subarray-minimums](https://github.com/samirjout/dsa.cpp/tree/master/0943-sum-of-subarray-minimums) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samirjout/dsa.cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/nevercooked/dsa.cpp/tree/master/0396-rotate-function) |
 | [0943-sum-of-subarray-minimums](https://github.com/samirjout/dsa.cpp/tree/master/0943-sum-of-subarray-minimums) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nevercooked/dsa.cpp/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2554-minimum-total-distance-traveled](https://github.com/nevercooked/dsa.cpp/tree/master/2554-minimum-total-distance-traveled) |
@@ -298,6 +300,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/samirjout/dsa.cpp/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/samirjout/dsa.cpp/tree/master/0367-valid-perfect-square) |
+| [0396-rotate-function](https://github.com/nevercooked/dsa.cpp/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/samirjout/dsa.cpp/tree/master/0441-arranging-coins) |
 | [0755-reach-a-number](https://github.com/samirjout/dsa.cpp/tree/master/0755-reach-a-number) |
 | [0900-reordered-power-of-2](https://github.com/samirjout/dsa.cpp/tree/master/0900-reordered-power-of-2) |
