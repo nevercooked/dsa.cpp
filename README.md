@@ -119,6 +119,7 @@
 | [0125-valid-palindrome](https://github.com/samirjout/dsa.cpp/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/samirjout/dsa.cpp/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/samirjout/dsa.cpp/tree/master/0424-longest-repeating-character-replacement) |
+| [0812-rotate-string](https://github.com/nevercooked/dsa.cpp/tree/master/0812-rotate-string) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nevercooked/dsa.cpp/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/samirjout/dsa.cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nevercooked/dsa.cpp/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -258,6 +259,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/samirjout/dsa.cpp/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/nevercooked/dsa.cpp/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
