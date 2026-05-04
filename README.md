@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/samirjout/dsa.cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/nevercooked/dsa.cpp/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/nevercooked/dsa.cpp/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/nevercooked/dsa.cpp/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/samirjout/dsa.cpp/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/nevercooked/dsa.cpp/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samirjout/dsa.cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -301,6 +302,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nevercooked/dsa.cpp/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/samirjout/dsa.cpp/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/samirjout/dsa.cpp/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/nevercooked/dsa.cpp/tree/master/0396-rotate-function) |
@@ -317,6 +319,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nevercooked/dsa.cpp/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/nevercooked/dsa.cpp/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/nevercooked/dsa.cpp/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/nevercooked/dsa.cpp/tree/master/0463-island-perimeter) |
 | [1380-number-of-closed-islands](https://github.com/nevercooked/dsa.cpp/tree/master/1380-number-of-closed-islands) |
