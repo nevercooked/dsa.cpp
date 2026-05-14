@@ -45,6 +45,7 @@
 | [2721-sum-of-distances](https://github.com/nevercooked/dsa.cpp/tree/master/2721-sum-of-distances) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nevercooked/dsa.cpp/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2892-check-if-array-is-good](https://github.com/nevercooked/dsa.cpp/tree/master/2892-check-if-array-is-good) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/samirjout/dsa.cpp/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/samirjout/dsa.cpp/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3750-closest-equal-element-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3750-closest-equal-element-queries) |
@@ -75,6 +76,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/samirjout/dsa.cpp/tree/master/2685-first-completely-painted-row-or-column) |
 | [2721-sum-of-distances](https://github.com/nevercooked/dsa.cpp/tree/master/2721-sum-of-distances) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nevercooked/dsa.cpp/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2892-check-if-array-is-good](https://github.com/nevercooked/dsa.cpp/tree/master/2892-check-if-array-is-good) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/samirjout/dsa.cpp/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3750-closest-equal-element-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3750-closest-equal-element-queries) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nevercooked/dsa.cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -94,6 +96,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2554-minimum-total-distance-traveled](https://github.com/nevercooked/dsa.cpp/tree/master/2554-minimum-total-distance-traveled) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
+| [2892-check-if-array-is-good](https://github.com/nevercooked/dsa.cpp/tree/master/2892-check-if-array-is-good) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/samirjout/dsa.cpp/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Prefix Sum
 |  |
