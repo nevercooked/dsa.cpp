@@ -64,6 +64,7 @@
 | [0076-minimum-window-substring](https://github.com/samirjout/dsa.cpp/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/samirjout/dsa.cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/samirjout/dsa.cpp/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/nevercooked/dsa.cpp/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/samirjout/dsa.cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samirjout/dsa.cpp/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nevercooked/dsa.cpp/tree/master/0347-top-k-frequent-elements) |
@@ -204,6 +205,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/samirjout/dsa.cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/samirjout/dsa.cpp/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/samirjout/dsa.cpp/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/nevercooked/dsa.cpp/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/samirjout/dsa.cpp/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -386,4 +388,12 @@
 |  |
 | ------- |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nevercooked/dsa.cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nevercooked/dsa.cpp/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nevercooked/dsa.cpp/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
