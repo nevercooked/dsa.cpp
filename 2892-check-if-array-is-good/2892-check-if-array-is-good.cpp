@@ -1,17 +1,16 @@
 class Solution {
 public:
     bool isGood(vector<int>& nums) {
-        int                n = nums.size() - 1;
-        unordered_set<int> seen;
-        for (int i = 0; i < nums.size(); ++i) {
-            if (nums[i] > n) {
-                return false;
-            }
-            if (seen.find(nums[i]) != seen.end() && nums[i] != n) {
-                return false;
-            }
-            seen.insert(nums[i]);
+        int n = nums.size() - 1;
+        sort(nums.begin(), nums.end());
+        if (nums[0] != 1 || nums[nums.size() - 1] != n) {
+            return false;
         }
-        return seen.size() == n;
+        for (int i = 1; i < nums.size() - 1; ++i) {
+            if (nums[i] != (nums[i - 1] + 1)) {
+                return false;
+            }
+        }
+        return true;
     }
 };
