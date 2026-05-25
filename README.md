@@ -120,6 +120,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/samirjout/dsa.cpp/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/nevercooked/dsa.cpp/tree/master/0560-subarray-sum-equals-k) |
+| [2001-jump-game-vii](https://github.com/nevercooked/dsa.cpp/tree/master/2001-jump-game-vii) |
 | [2721-sum-of-distances](https://github.com/nevercooked/dsa.cpp/tree/master/2721-sum-of-distances) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/samirjout/dsa.cpp/tree/master/3355-minimum-levels-to-gain-more-points) |
 ## Union Find
@@ -153,6 +154,7 @@
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/samirjout/dsa.cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nevercooked/dsa.cpp/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/samirjout/dsa.cpp/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [2001-jump-game-vii](https://github.com/nevercooked/dsa.cpp/tree/master/2001-jump-game-vii) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samirjout/dsa.cpp/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/nevercooked/dsa.cpp/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nevercooked/dsa.cpp/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
@@ -180,6 +182,7 @@
 | [1081-video-stitching](https://github.com/nevercooked/dsa.cpp/tree/master/1081-video-stitching) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nevercooked/dsa.cpp/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1466-jump-game-v](https://github.com/nevercooked/dsa.cpp/tree/master/1466-jump-game-v) |
+| [2001-jump-game-vii](https://github.com/nevercooked/dsa.cpp/tree/master/2001-jump-game-vii) |
 | [2554-minimum-total-distance-traveled](https://github.com/nevercooked/dsa.cpp/tree/master/2554-minimum-total-distance-traveled) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
 | [3981-jump-game-ix](https://github.com/nevercooked/dsa.cpp/tree/master/3981-jump-game-ix) |
@@ -190,6 +193,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/samirjout/dsa.cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/samirjout/dsa.cpp/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/samirjout/dsa.cpp/tree/master/0424-longest-repeating-character-replacement) |
+| [2001-jump-game-vii](https://github.com/nevercooked/dsa.cpp/tree/master/2001-jump-game-vii) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/samirjout/dsa.cpp/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/samirjout/dsa.cpp/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Stack
