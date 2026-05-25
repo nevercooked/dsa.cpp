@@ -360,6 +360,7 @@
 | [0755-reach-a-number](https://github.com/samirjout/dsa.cpp/tree/master/0755-reach-a-number) |
 | [0804-rotated-digits](https://github.com/nevercooked/dsa.cpp/tree/master/0804-rotated-digits) |
 | [0900-reordered-power-of-2](https://github.com/samirjout/dsa.cpp/tree/master/0900-reordered-power-of-2) |
+| [0903-implement-rand10-using-rand7](https://github.com/nevercooked/dsa.cpp/tree/master/0903-implement-rand10-using-rand7) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/samirjout/dsa.cpp/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/samirjout/dsa.cpp/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -435,4 +436,16 @@
 |  |
 | ------- |
 | [0761-employee-free-time](https://github.com/nevercooked/dsa.cpp/tree/master/0761-employee-free-time) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/nevercooked/dsa.cpp/tree/master/0903-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/nevercooked/dsa.cpp/tree/master/0903-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/nevercooked/dsa.cpp/tree/master/0903-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
