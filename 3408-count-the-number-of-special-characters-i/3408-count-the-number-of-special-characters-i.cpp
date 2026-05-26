@@ -1,19 +1,12 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
+        unordered_set<char> s(word.begin(), word.end());
         int cpt = 0;
-        unordered_set<char> seen;
-        vector<bool> done(26, false);
-        for (const auto& c : word) {
-            if (!done[tolower(c) - 'a'] && islower(c) && seen.find(toupper(c)) != seen.end()) {
-                done[tolower(c) - 'a'] = true;
+        for (char c = 'a'; c <= 'z'; ++c) {
+            if (s.find(c) != s.end() && s.find(toupper(c)) != s.end()) {
                 cpt += 1;
             }
-            if (!done[tolower(c) - 'a'] && isupper(c) && seen.find(tolower(c)) != seen.end()) {
-                done[tolower(c) - 'a'] = true;
-                cpt += 1;
-            }
-            seen.insert(c);
         }
         return cpt;
     }
