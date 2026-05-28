@@ -58,6 +58,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nevercooked/dsa.cpp/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2892-check-if-array-is-good](https://github.com/nevercooked/dsa.cpp/tree/master/2892-check-if-array-is-good) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/samirjout/dsa.cpp/tree/master/3355-minimum-levels-to-gain-more-points) |
+| [3376-longest-common-suffix-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3376-longest-common-suffix-queries) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/samirjout/dsa.cpp/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3750-closest-equal-element-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3750-closest-equal-element-queries) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nevercooked/dsa.cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -163,6 +164,7 @@
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/samirjout/dsa.cpp/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nevercooked/dsa.cpp/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/samirjout/dsa.cpp/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3376-longest-common-suffix-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3376-longest-common-suffix-queries) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/nevercooked/dsa.cpp/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Greedy
@@ -418,6 +420,7 @@
 |  |
 | ------- |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/nevercooked/dsa.cpp/tree/master/2550-words-within-two-edits-of-dictionary) |
+| [3376-longest-common-suffix-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3376-longest-common-suffix-queries) |
 ## Simulation
 |  |
 | ------- |
