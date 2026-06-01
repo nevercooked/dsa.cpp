@@ -47,6 +47,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/nevercooked/dsa.cpp/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2227-sum-of-subarray-ranges](https://github.com/samirjout/dsa.cpp/tree/master/2227-sum-of-subarray-ranges) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/nevercooked/dsa.cpp/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/samirjout/dsa.cpp/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/nevercooked/dsa.cpp/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2554-minimum-total-distance-traveled](https://github.com/nevercooked/dsa.cpp/tree/master/2554-minimum-total-distance-traveled) |
@@ -114,6 +115,7 @@
 | [1466-jump-game-v](https://github.com/nevercooked/dsa.cpp/tree/master/1466-jump-game-v) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/nevercooked/dsa.cpp/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/nevercooked/dsa.cpp/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2554-minimum-total-distance-traveled](https://github.com/nevercooked/dsa.cpp/tree/master/2554-minimum-total-distance-traveled) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
 | [2892-check-if-array-is-good](https://github.com/nevercooked/dsa.cpp/tree/master/2892-check-if-array-is-good) |
@@ -175,6 +177,7 @@
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/nevercooked/dsa.cpp/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/nevercooked/dsa.cpp/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/nevercooked/dsa.cpp/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/samirjout/dsa.cpp/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/samirjout/dsa.cpp/tree/master/3712-minimum-cost-to-make-arrays-identical) |
