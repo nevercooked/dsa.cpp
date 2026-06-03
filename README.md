@@ -257,6 +257,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/nevercooked/dsa.cpp/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/samirjout/dsa.cpp/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/nevercooked/dsa.cpp/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/samirjout/dsa.cpp/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/samirjout/dsa.cpp/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
@@ -372,6 +373,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/nevercooked/dsa.cpp/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/nevercooked/dsa.cpp/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/nevercooked/dsa.cpp/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/samirjout/dsa.cpp/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/samirjout/dsa.cpp/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/nevercooked/dsa.cpp/tree/master/0396-rotate-function) |
