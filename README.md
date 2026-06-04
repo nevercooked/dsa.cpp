@@ -18,6 +18,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samirjout/dsa.cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nevercooked/dsa.cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/samirjout/dsa.cpp/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/nevercooked/dsa.cpp/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/samirjout/dsa.cpp/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/samirjout/dsa.cpp/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/nevercooked/dsa.cpp/tree/master/0260-single-number-iii) |
@@ -368,6 +369,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nevercooked/dsa.cpp/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/samirjout/dsa.cpp/tree/master/0900-reordered-power-of-2) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
 ## Math
@@ -377,6 +379,7 @@
 | [0048-rotate-image](https://github.com/nevercooked/dsa.cpp/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nevercooked/dsa.cpp/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/samirjout/dsa.cpp/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/nevercooked/dsa.cpp/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/samirjout/dsa.cpp/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/nevercooked/dsa.cpp/tree/master/0372-super-pow) |
 | [0396-rotate-function](https://github.com/nevercooked/dsa.cpp/tree/master/0396-rotate-function) |
@@ -449,6 +452,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nevercooked/dsa.cpp/tree/master/0204-count-primes) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nevercooked/dsa.cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Design
 |  |
