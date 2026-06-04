@@ -260,6 +260,7 @@
 | [0050-powx-n](https://github.com/nevercooked/dsa.cpp/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/samirjout/dsa.cpp/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/samirjout/dsa.cpp/tree/master/0206-reverse-linked-list) |
+| [2050-count-good-numbers](https://github.com/nevercooked/dsa.cpp/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -384,6 +385,7 @@
 | [0804-rotated-digits](https://github.com/nevercooked/dsa.cpp/tree/master/0804-rotated-digits) |
 | [0900-reordered-power-of-2](https://github.com/samirjout/dsa.cpp/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/nevercooked/dsa.cpp/tree/master/0903-implement-rand10-using-rand7) |
+| [2050-count-good-numbers](https://github.com/nevercooked/dsa.cpp/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/samirjout/dsa.cpp/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/samirjout/dsa.cpp/tree/master/3279-alice-and-bob-playing-flower-game) |
