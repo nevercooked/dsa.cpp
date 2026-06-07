@@ -368,6 +368,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/nevercooked/dsa.cpp/tree/master/0029-divide-two-integers) |
 | [0260-single-number-iii](https://github.com/nevercooked/dsa.cpp/tree/master/0260-single-number-iii) |
 | [1054-complement-of-base-10-integer](https://github.com/nevercooked/dsa.cpp/tree/master/1054-complement-of-base-10-integer) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/samirjout/dsa.cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -383,6 +384,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nevercooked/dsa.cpp/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/nevercooked/dsa.cpp/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/nevercooked/dsa.cpp/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nevercooked/dsa.cpp/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/samirjout/dsa.cpp/tree/master/0069-sqrtx) |
