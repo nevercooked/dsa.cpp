@@ -49,6 +49,7 @@
 | [2199-two-furthest-houses-with-different-colors](https://github.com/nevercooked/dsa.cpp/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2227-sum-of-subarray-ranges](https://github.com/samirjout/dsa.cpp/tree/master/2227-sum-of-subarray-ranges) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/nevercooked/dsa.cpp/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/nevercooked/dsa.cpp/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/samirjout/dsa.cpp/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/nevercooked/dsa.cpp/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2554-minimum-total-distance-traveled](https://github.com/nevercooked/dsa.cpp/tree/master/2554-minimum-total-distance-traveled) |
@@ -92,6 +93,7 @@
 | [1447-jump-game-iv](https://github.com/nevercooked/dsa.cpp/tree/master/1447-jump-game-iv) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/samirjout/dsa.cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nevercooked/dsa.cpp/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/nevercooked/dsa.cpp/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samirjout/dsa.cpp/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2685-first-completely-painted-row-or-column](https://github.com/samirjout/dsa.cpp/tree/master/2685-first-completely-painted-row-or-column) |
 | [2721-sum-of-distances](https://github.com/nevercooked/dsa.cpp/tree/master/2721-sum-of-distances) |
@@ -291,6 +293,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/samirjout/dsa.cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/samirjout/dsa.cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/samirjout/dsa.cpp/tree/master/0572-subtree-of-another-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/nevercooked/dsa.cpp/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -330,6 +333,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/samirjout/dsa.cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/samirjout/dsa.cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/samirjout/dsa.cpp/tree/master/0572-subtree-of-another-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/nevercooked/dsa.cpp/tree/master/2306-create-binary-tree-from-descriptions) |
 ## String Matching
 |  |
 | ------- |
