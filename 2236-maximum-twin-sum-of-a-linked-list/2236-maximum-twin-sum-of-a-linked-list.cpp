@@ -22,21 +22,14 @@ private:
     }
 public:
     int pairSum(ListNode* head) {
-        ListNode* node = head;
-        int       len  = 0;
-        while (node != nullptr) {
-            node = node->next;
-            len += 1;
-        }
-        node = head;
-        for (int i = 0; i < (len / 2) && node != nullptr; ++i) {
-            node = node->next;
-        }
-        if (node == nullptr) {
-            throw invalid_argument("Middle node cannot be null!");
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while (fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
         ListNode* left    = head;
-        ListNode* right   = reverseList(node); 
+        ListNode* right   = reverseList(slow); 
         int       twinSum = 0;
         while (left != nullptr && right != nullptr) {
             twinSum = max(twinSum, left->val + right ->val);
