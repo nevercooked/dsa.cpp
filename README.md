@@ -158,6 +158,7 @@
 | [0723-candy-crush](https://github.com/nevercooked/dsa.cpp/tree/master/0723-candy-crush) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/samirjout/dsa.cpp/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/nevercooked/dsa.cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/nevercooked/dsa.cpp/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nevercooked/dsa.cpp/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nevercooked/dsa.cpp/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -236,6 +237,7 @@
 | [0143-reorder-list](https://github.com/samirjout/dsa.cpp/tree/master/0143-reorder-list) |
 | [0943-sum-of-subarray-minimums](https://github.com/samirjout/dsa.cpp/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/samirjout/dsa.cpp/tree/master/2227-sum-of-subarray-ranges) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/nevercooked/dsa.cpp/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -268,6 +270,7 @@
 | [0143-reorder-list](https://github.com/samirjout/dsa.cpp/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/nevercooked/dsa.cpp/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/samirjout/dsa.cpp/tree/master/0206-reverse-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/nevercooked/dsa.cpp/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
