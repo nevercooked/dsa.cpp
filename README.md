@@ -189,6 +189,7 @@
 | [3376-longest-common-suffix-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3376-longest-common-suffix-queries) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/nevercooked/dsa.cpp/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/nevercooked/dsa.cpp/tree/master/3931-process-string-with-special-operations-i) |
 | [4216-weighted-word-mapping](https://github.com/nevercooked/dsa.cpp/tree/master/4216-weighted-word-mapping) |
 ## Greedy
 |  |
@@ -485,6 +486,7 @@
 | [2043-cyclically-rotating-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2043-cyclically-rotating-a-grid) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nevercooked/dsa.cpp/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nevercooked/dsa.cpp/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3931-process-string-with-special-operations-i](https://github.com/nevercooked/dsa.cpp/tree/master/3931-process-string-with-special-operations-i) |
 | [4216-weighted-word-mapping](https://github.com/nevercooked/dsa.cpp/tree/master/4216-weighted-word-mapping) |
 ## Number Theory
 |  |
