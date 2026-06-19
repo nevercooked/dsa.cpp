@@ -42,6 +42,7 @@
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/nevercooked/dsa.cpp/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/nevercooked/dsa.cpp/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [1833-find-the-highest-altitude](https://github.com/nevercooked/dsa.cpp/tree/master/1833-find-the-highest-altitude) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/nevercooked/dsa.cpp/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nevercooked/dsa.cpp/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/nevercooked/dsa.cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/samirjout/dsa.cpp/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/nevercooked/dsa.cpp/tree/master/0560-subarray-sum-equals-k) |
+| [1833-find-the-highest-altitude](https://github.com/nevercooked/dsa.cpp/tree/master/1833-find-the-highest-altitude) |
 | [2001-jump-game-vii](https://github.com/nevercooked/dsa.cpp/tree/master/2001-jump-game-vii) |
 | [2714-left-and-right-sum-differences](https://github.com/nevercooked/dsa.cpp/tree/master/2714-left-and-right-sum-differences) |
 | [2721-sum-of-distances](https://github.com/nevercooked/dsa.cpp/tree/master/2721-sum-of-distances) |
