@@ -45,6 +45,7 @@
 | [1833-find-the-highest-altitude](https://github.com/nevercooked/dsa.cpp/tree/master/1833-find-the-highest-altitude) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/nevercooked/dsa.cpp/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nevercooked/dsa.cpp/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1968-maximum-building-height](https://github.com/nevercooked/dsa.cpp/tree/master/1968-maximum-building-height) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/nevercooked/dsa.cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2043-cyclically-rotating-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2043-cyclically-rotating-a-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -126,6 +127,7 @@
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
 | [1466-jump-game-v](https://github.com/nevercooked/dsa.cpp/tree/master/1466-jump-game-v) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/nevercooked/dsa.cpp/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [1968-maximum-building-height](https://github.com/nevercooked/dsa.cpp/tree/master/1968-maximum-building-height) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/nevercooked/dsa.cpp/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2554-minimum-total-distance-traveled](https://github.com/nevercooked/dsa.cpp/tree/master/2554-minimum-total-distance-traveled) |
@@ -422,6 +424,7 @@
 | [0804-rotated-digits](https://github.com/nevercooked/dsa.cpp/tree/master/0804-rotated-digits) |
 | [0900-reordered-power-of-2](https://github.com/samirjout/dsa.cpp/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/nevercooked/dsa.cpp/tree/master/0903-implement-rand10-using-rand7) |
+| [1968-maximum-building-height](https://github.com/nevercooked/dsa.cpp/tree/master/1968-maximum-building-height) |
 | [2050-count-good-numbers](https://github.com/nevercooked/dsa.cpp/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/samirjout/dsa.cpp/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
