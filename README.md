@@ -219,6 +219,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samirjout/dsa.cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/nevercooked/dsa.cpp/tree/master/0396-rotate-function) |
+| [0576-out-of-boundary-paths](https://github.com/nevercooked/dsa.cpp/tree/master/0576-out-of-boundary-paths) |
 | [0804-rotated-digits](https://github.com/nevercooked/dsa.cpp/tree/master/0804-rotated-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/samirjout/dsa.cpp/tree/master/0943-sum-of-subarray-minimums) |
 | [1081-video-stitching](https://github.com/nevercooked/dsa.cpp/tree/master/1081-video-stitching) |
