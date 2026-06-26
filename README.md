@@ -78,6 +78,7 @@
 | [3981-jump-game-ix](https://github.com/nevercooked/dsa.cpp/tree/master/3981-jump-game-ix) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4007-maximum-total-subarray-value-ii) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/nevercooked/dsa.cpp/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4216-weighted-word-mapping](https://github.com/nevercooked/dsa.cpp/tree/master/4216-weighted-word-mapping) |
@@ -114,6 +115,7 @@
 | [3408-count-the-number-of-special-characters-i](https://github.com/nevercooked/dsa.cpp/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3750-closest-equal-element-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3750-closest-equal-element-queries) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nevercooked/dsa.cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/nevercooked/dsa.cpp/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
@@ -149,6 +151,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/nevercooked/dsa.cpp/tree/master/2714-left-and-right-sum-differences) |
 | [2721-sum-of-distances](https://github.com/nevercooked/dsa.cpp/tree/master/2721-sum-of-distances) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/samirjout/dsa.cpp/tree/master/3355-minimum-levels-to-gain-more-points) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -300,6 +303,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/samirjout/dsa.cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/nevercooked/dsa.cpp/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/nevercooked/dsa.cpp/tree/master/0372-super-pow) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -311,6 +315,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/samirjout/dsa.cpp/tree/master/0023-merge-k-sorted-lists) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -535,6 +540,7 @@
 |  |
 | ------- |
 | [4007-maximum-total-subarray-value-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4007-maximum-total-subarray-value-ii) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Counting Sort
 |  |
 | ------- |
