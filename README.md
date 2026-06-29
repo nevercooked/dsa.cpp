@@ -51,6 +51,7 @@
 | [1968-maximum-building-height](https://github.com/nevercooked/dsa.cpp/tree/master/1968-maximum-building-height) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/nevercooked/dsa.cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2043-cyclically-rotating-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2043-cyclically-rotating-a-grid) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nevercooked/dsa.cpp/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/nevercooked/dsa.cpp/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2227-sum-of-subarray-ranges](https://github.com/samirjout/dsa.cpp/tree/master/2227-sum-of-subarray-ranges) |
@@ -194,6 +195,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nevercooked/dsa.cpp/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/samirjout/dsa.cpp/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2001-jump-game-vii](https://github.com/nevercooked/dsa.cpp/tree/master/2001-jump-game-vii) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nevercooked/dsa.cpp/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samirjout/dsa.cpp/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/nevercooked/dsa.cpp/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nevercooked/dsa.cpp/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
