@@ -69,6 +69,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nevercooked/dsa.cpp/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nevercooked/dsa.cpp/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2892-check-if-array-is-good](https://github.com/nevercooked/dsa.cpp/tree/master/2892-check-if-array-is-good) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/nevercooked/dsa.cpp/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/samirjout/dsa.cpp/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3376-longest-common-suffix-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3376-longest-common-suffix-queries) |
@@ -278,6 +279,7 @@
 | [1066-fixed-point](https://github.com/nevercooked/dsa.cpp/tree/master/1066-fixed-point) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/nevercooked/dsa.cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/samirjout/dsa.cpp/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/samirjout/dsa.cpp/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3750-closest-equal-element-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3750-closest-equal-element-queries) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nevercooked/dsa.cpp/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -317,6 +319,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/samirjout/dsa.cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/nevercooked/dsa.cpp/tree/master/0347-top-k-frequent-elements) |
 | [0761-employee-free-time](https://github.com/nevercooked/dsa.cpp/tree/master/0761-employee-free-time) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4007-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
@@ -366,6 +369,7 @@
 | [1447-jump-game-iv](https://github.com/nevercooked/dsa.cpp/tree/master/1447-jump-game-iv) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/nevercooked/dsa.cpp/tree/master/1663-detect-cycles-in-2d-grid) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nevercooked/dsa.cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
@@ -470,6 +474,7 @@
 | [2043-cyclically-rotating-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2043-cyclically-rotating-a-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/samirjout/dsa.cpp/tree/master/2685-first-completely-painted-row-or-column) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Rolling Hash
 |  |
@@ -499,6 +504,7 @@
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/nevercooked/dsa.cpp/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/nevercooked/dsa.cpp/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Trie
 |  |
 | ------- |
