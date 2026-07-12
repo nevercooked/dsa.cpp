@@ -37,6 +37,7 @@
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
 | [1234-number-of-paths-with-max-score](https://github.com/nevercooked/dsa.cpp/tree/master/1234-number-of-paths-with-max-score) |
 | [1241-decompress-run-length-encoded-list](https://github.com/nevercooked/dsa.cpp/tree/master/1241-decompress-run-length-encoded-list) |
+| [1256-rank-transform-of-an-array](https://github.com/nevercooked/dsa.cpp/tree/master/1256-rank-transform-of-an-array) |
 | [1380-number-of-closed-islands](https://github.com/nevercooked/dsa.cpp/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/nevercooked/dsa.cpp/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/nevercooked/dsa.cpp/tree/master/1447-jump-game-iv) |
@@ -106,6 +107,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/nevercooked/dsa.cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0900-reordered-power-of-2](https://github.com/samirjout/dsa.cpp/tree/master/0900-reordered-power-of-2) |
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
+| [1256-rank-transform-of-an-array](https://github.com/nevercooked/dsa.cpp/tree/master/1256-rank-transform-of-an-array) |
 | [1447-jump-game-iv](https://github.com/nevercooked/dsa.cpp/tree/master/1447-jump-game-iv) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/samirjout/dsa.cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nevercooked/dsa.cpp/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -136,6 +138,7 @@
 | [0761-employee-free-time](https://github.com/nevercooked/dsa.cpp/tree/master/0761-employee-free-time) |
 | [0900-reordered-power-of-2](https://github.com/samirjout/dsa.cpp/tree/master/0900-reordered-power-of-2) |
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
+| [1256-rank-transform-of-an-array](https://github.com/nevercooked/dsa.cpp/tree/master/1256-rank-transform-of-an-array) |
 | [1466-jump-game-v](https://github.com/nevercooked/dsa.cpp/tree/master/1466-jump-game-v) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/nevercooked/dsa.cpp/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/nevercooked/dsa.cpp/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
