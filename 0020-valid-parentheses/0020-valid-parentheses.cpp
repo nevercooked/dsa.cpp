@@ -1,22 +1,21 @@
 class Solution {
 public:
     bool isValid(string s) {
-        std::stack<char>               stk;
-        std::unordered_set<char>       openings = {'(', '{', '['};
-        std::unordered_map<char, char> mapping  = {
-            {')', '('},
-            {'}', '{'},
-            {']', '['},
+        stack<char> stk;
+        unordered_map<char, char> mapping = {
+            {'(', ')'},
+            {'{', '}'},
+            {'[', ']'},
         };
-        for (const auto& c: s) {
-            if (openings.find(c) != openings.end()) {
+        for (const auto& c : s) {
+            if (mapping.find(c) != mapping.end()) {
                 stk.push(c);
+                continue;
             }
-            else {
-                if (stk.empty()) return false;
-                if (stk.top() != mapping[c]) return false;
-                stk.pop();
+            if (stk.empty() || mapping[stk.top()] != c) {
+                return false;
             }
+            stk.pop();
         }
         return stk.empty();
     }
