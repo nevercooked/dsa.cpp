@@ -7,8 +7,8 @@ public:
         for (const auto& n : nums) {
             rank[n] = i++;
         }
-        for (auto& n : arr) {
-            n = rank[n];
+        for (auto& el : arr) {
+            el = rank[el];
         }
         return arr;
     }
