@@ -266,6 +266,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/samirjout/dsa.cpp/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/samirjout/dsa.cpp/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/nevercooked/dsa.cpp/tree/master/0155-min-stack) |
 | [0943-sum-of-subarray-minimums](https://github.com/samirjout/dsa.cpp/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/samirjout/dsa.cpp/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/nevercooked/dsa.cpp/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -544,6 +545,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nevercooked/dsa.cpp/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/nevercooked/dsa.cpp/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
