@@ -155,6 +155,7 @@
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
 | [2892-check-if-array-is-good](https://github.com/nevercooked/dsa.cpp/tree/master/2892-check-if-array-is-good) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/samirjout/dsa.cpp/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3859-maximum-product-of-two-digits](https://github.com/nevercooked/dsa.cpp/tree/master/3859-maximum-product-of-two-digits) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nevercooked/dsa.cpp/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Prefix Sum
@@ -485,6 +486,7 @@
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/nevercooked/dsa.cpp/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
+| [3859-maximum-product-of-two-digits](https://github.com/nevercooked/dsa.cpp/tree/master/3859-maximum-product-of-two-digits) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nevercooked/dsa.cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/nevercooked/dsa.cpp/tree/master/3995-gcd-of-odd-and-even-sums) |
