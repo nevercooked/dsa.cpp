@@ -45,6 +45,7 @@
 | [1447-jump-game-iv](https://github.com/nevercooked/dsa.cpp/tree/master/1447-jump-game-iv) |
 | [1466-jump-game-v](https://github.com/nevercooked/dsa.cpp/tree/master/1466-jump-game-v) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nevercooked/dsa.cpp/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/nevercooked/dsa.cpp/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/nevercooked/dsa.cpp/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1833-find-the-highest-altitude](https://github.com/nevercooked/dsa.cpp/tree/master/1833-find-the-highest-altitude) |
@@ -147,6 +148,7 @@
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
 | [1256-rank-transform-of-an-array](https://github.com/nevercooked/dsa.cpp/tree/master/1256-rank-transform-of-an-array) |
 | [1466-jump-game-v](https://github.com/nevercooked/dsa.cpp/tree/master/1466-jump-game-v) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nevercooked/dsa.cpp/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/nevercooked/dsa.cpp/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/nevercooked/dsa.cpp/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/nevercooked/dsa.cpp/tree/master/1961-maximum-ice-cream-bars) |
@@ -343,6 +345,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/samirjout/dsa.cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/nevercooked/dsa.cpp/tree/master/0347-top-k-frequent-elements) |
 | [0761-employee-free-time](https://github.com/nevercooked/dsa.cpp/tree/master/0761-employee-free-time) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nevercooked/dsa.cpp/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3919-network-recovery-pathways](https://github.com/nevercooked/dsa.cpp/tree/master/3919-network-recovery-pathways) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4007-maximum-total-subarray-value-ii) |
