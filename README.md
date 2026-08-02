@@ -32,6 +32,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/samirjout/dsa.cpp/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0761-employee-free-time](https://github.com/nevercooked/dsa.cpp/tree/master/0761-employee-free-time) |
 | [0907-koko-eating-bananas](https://github.com/nevercooked/dsa.cpp/tree/master/0907-koko-eating-bananas) |
+| [0909-stone-game](https://github.com/nevercooked/dsa.cpp/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/samirjout/dsa.cpp/tree/master/0943-sum-of-subarray-minimums) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/samirjout/dsa.cpp/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1066-fixed-point](https://github.com/nevercooked/dsa.cpp/tree/master/1066-fixed-point) |
@@ -254,6 +255,7 @@
 | [0396-rotate-function](https://github.com/nevercooked/dsa.cpp/tree/master/0396-rotate-function) |
 | [0576-out-of-boundary-paths](https://github.com/nevercooked/dsa.cpp/tree/master/0576-out-of-boundary-paths) |
 | [0804-rotated-digits](https://github.com/nevercooked/dsa.cpp/tree/master/0804-rotated-digits) |
+| [0909-stone-game](https://github.com/nevercooked/dsa.cpp/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/samirjout/dsa.cpp/tree/master/0943-sum-of-subarray-minimums) |
 | [1081-video-stitching](https://github.com/nevercooked/dsa.cpp/tree/master/1081-video-stitching) |
 | [1234-number-of-paths-with-max-score](https://github.com/nevercooked/dsa.cpp/tree/master/1234-number-of-paths-with-max-score) |
@@ -484,6 +486,7 @@
 | [0804-rotated-digits](https://github.com/nevercooked/dsa.cpp/tree/master/0804-rotated-digits) |
 | [0900-reordered-power-of-2](https://github.com/samirjout/dsa.cpp/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/nevercooked/dsa.cpp/tree/master/0903-implement-rand10-using-rand7) |
+| [0909-stone-game](https://github.com/nevercooked/dsa.cpp/tree/master/0909-stone-game) |
 | [1968-maximum-building-height](https://github.com/nevercooked/dsa.cpp/tree/master/1968-maximum-building-height) |
 | [2050-count-good-numbers](https://github.com/nevercooked/dsa.cpp/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nevercooked/dsa.cpp/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -628,4 +631,8 @@
 |  |
 | ------- |
 | [3583-sorted-gcd-pair-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3583-sorted-gcd-pair-queries) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/nevercooked/dsa.cpp/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
