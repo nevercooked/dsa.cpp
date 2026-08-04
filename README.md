@@ -94,6 +94,7 @@
 | [3986-maximum-path-score-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4107-find-missing-elements](https://github.com/nevercooked/dsa.cpp/tree/master/4107-find-missing-elements) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/nevercooked/dsa.cpp/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4216-weighted-word-mapping](https://github.com/nevercooked/dsa.cpp/tree/master/4216-weighted-word-mapping) |
@@ -134,6 +135,7 @@
 | [3750-closest-equal-element-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3750-closest-equal-element-queries) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nevercooked/dsa.cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4107-find-missing-elements](https://github.com/nevercooked/dsa.cpp/tree/master/4107-find-missing-elements) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/nevercooked/dsa.cpp/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
@@ -165,6 +167,7 @@
 | [3859-maximum-product-of-two-digits](https://github.com/nevercooked/dsa.cpp/tree/master/3859-maximum-product-of-two-digits) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nevercooked/dsa.cpp/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4107-find-missing-elements](https://github.com/nevercooked/dsa.cpp/tree/master/4107-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
