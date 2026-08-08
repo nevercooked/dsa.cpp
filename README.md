@@ -199,6 +199,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nevercooked/dsa.cpp/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/nevercooked/dsa.cpp/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nevercooked/dsa.cpp/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/nevercooked/dsa.cpp/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nevercooked/dsa.cpp/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## String
@@ -229,6 +230,7 @@
 | [3376-longest-common-suffix-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3376-longest-common-suffix-queries) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/nevercooked/dsa.cpp/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/nevercooked/dsa.cpp/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/nevercooked/dsa.cpp/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/nevercooked/dsa.cpp/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/nevercooked/dsa.cpp/tree/master/3931-process-string-with-special-operations-i) |
@@ -248,6 +250,7 @@
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/nevercooked/dsa.cpp/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/samirjout/dsa.cpp/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/nevercooked/dsa.cpp/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/samirjout/dsa.cpp/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nevercooked/dsa.cpp/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -269,6 +272,7 @@
 | [2001-jump-game-vii](https://github.com/nevercooked/dsa.cpp/tree/master/2001-jump-game-vii) |
 | [2554-minimum-total-distance-traveled](https://github.com/nevercooked/dsa.cpp/tree/master/2554-minimum-total-distance-traveled) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/nevercooked/dsa.cpp/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3919-network-recovery-pathways](https://github.com/nevercooked/dsa.cpp/tree/master/3919-network-recovery-pathways) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3964-number-of-zigzag-arrays-ii) |
