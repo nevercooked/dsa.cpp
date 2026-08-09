@@ -39,6 +39,7 @@
 | [1081-video-stitching](https://github.com/nevercooked/dsa.cpp/tree/master/1081-video-stitching) |
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
 | [1234-number-of-paths-with-max-score](https://github.com/nevercooked/dsa.cpp/tree/master/1234-number-of-paths-with-max-score) |
+| [1240-stone-game-ii](https://github.com/nevercooked/dsa.cpp/tree/master/1240-stone-game-ii) |
 | [1241-decompress-run-length-encoded-list](https://github.com/nevercooked/dsa.cpp/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/nevercooked/dsa.cpp/tree/master/1256-rank-transform-of-an-array) |
 | [1380-number-of-closed-islands](https://github.com/nevercooked/dsa.cpp/tree/master/1380-number-of-closed-islands) |
@@ -173,6 +174,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/samirjout/dsa.cpp/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/nevercooked/dsa.cpp/tree/master/0560-subarray-sum-equals-k) |
+| [1240-stone-game-ii](https://github.com/nevercooked/dsa.cpp/tree/master/1240-stone-game-ii) |
 | [1833-find-the-highest-altitude](https://github.com/nevercooked/dsa.cpp/tree/master/1833-find-the-highest-altitude) |
 | [2001-jump-game-vii](https://github.com/nevercooked/dsa.cpp/tree/master/2001-jump-game-vii) |
 | [2714-left-and-right-sum-differences](https://github.com/nevercooked/dsa.cpp/tree/master/2714-left-and-right-sum-differences) |
@@ -266,6 +268,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/samirjout/dsa.cpp/tree/master/0943-sum-of-subarray-minimums) |
 | [1081-video-stitching](https://github.com/nevercooked/dsa.cpp/tree/master/1081-video-stitching) |
 | [1234-number-of-paths-with-max-score](https://github.com/nevercooked/dsa.cpp/tree/master/1234-number-of-paths-with-max-score) |
+| [1240-stone-game-ii](https://github.com/nevercooked/dsa.cpp/tree/master/1240-stone-game-ii) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nevercooked/dsa.cpp/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1466-jump-game-v](https://github.com/nevercooked/dsa.cpp/tree/master/1466-jump-game-v) |
 | [1522-stone-game-iii](https://github.com/nevercooked/dsa.cpp/tree/master/1522-stone-game-iii) |
@@ -499,6 +502,7 @@
 | [0900-reordered-power-of-2](https://github.com/samirjout/dsa.cpp/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/nevercooked/dsa.cpp/tree/master/0903-implement-rand10-using-rand7) |
 | [0909-stone-game](https://github.com/nevercooked/dsa.cpp/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/nevercooked/dsa.cpp/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/nevercooked/dsa.cpp/tree/master/1522-stone-game-iii) |
 | [1968-maximum-building-height](https://github.com/nevercooked/dsa.cpp/tree/master/1968-maximum-building-height) |
 | [2050-count-good-numbers](https://github.com/nevercooked/dsa.cpp/tree/master/2050-count-good-numbers) |
@@ -650,13 +654,16 @@
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/nevercooked/dsa.cpp/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/nevercooked/dsa.cpp/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/nevercooked/dsa.cpp/tree/master/1522-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/nevercooked/dsa.cpp/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/nevercooked/dsa.cpp/tree/master/1522-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/nevercooked/dsa.cpp/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/nevercooked/dsa.cpp/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
