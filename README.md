@@ -238,6 +238,7 @@
 | [3405-count-the-number-of-special-characters-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/nevercooked/dsa.cpp/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/nevercooked/dsa.cpp/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/nevercooked/dsa.cpp/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/nevercooked/dsa.cpp/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/nevercooked/dsa.cpp/tree/master/3931-process-string-with-special-operations-i) |
@@ -258,6 +259,7 @@
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/samirjout/dsa.cpp/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/nevercooked/dsa.cpp/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/samirjout/dsa.cpp/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nevercooked/dsa.cpp/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -468,6 +470,7 @@
 | [0079-word-search](https://github.com/nevercooked/dsa.cpp/tree/master/0079-word-search) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nevercooked/dsa.cpp/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -518,6 +521,7 @@
 | [3279-alice-and-bob-playing-flower-game](https://github.com/samirjout/dsa.cpp/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3583-sorted-gcd-pair-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3583-sorted-gcd-pair-queries) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/nevercooked/dsa.cpp/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/nevercooked/dsa.cpp/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
@@ -601,6 +605,7 @@
 | [0204-count-primes](https://github.com/nevercooked/dsa.cpp/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nevercooked/dsa.cpp/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3583-sorted-gcd-pair-queries) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nevercooked/dsa.cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/nevercooked/dsa.cpp/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Design
