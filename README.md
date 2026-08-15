@@ -96,6 +96,7 @@
 | [3981-jump-game-ix](https://github.com/nevercooked/dsa.cpp/tree/master/3981-jump-game-ix) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4007-maximum-total-subarray-value-ii) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nevercooked/dsa.cpp/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4107-find-missing-elements](https://github.com/nevercooked/dsa.cpp/tree/master/4107-find-missing-elements) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
@@ -482,6 +483,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nevercooked/dsa.cpp/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nevercooked/dsa.cpp/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
 |  |
 | ------- |
