@@ -47,6 +47,7 @@
 | [1428-jump-game-iii](https://github.com/nevercooked/dsa.cpp/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/nevercooked/dsa.cpp/tree/master/1447-jump-game-iv) |
 | [1466-jump-game-v](https://github.com/nevercooked/dsa.cpp/tree/master/1466-jump-game-v) |
+| [1487-cinema-seat-allocation](https://github.com/nevercooked/dsa.cpp/tree/master/1487-cinema-seat-allocation) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1522-stone-game-iii](https://github.com/nevercooked/dsa.cpp/tree/master/1522-stone-game-iii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nevercooked/dsa.cpp/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -125,6 +126,7 @@
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
 | [1256-rank-transform-of-an-array](https://github.com/nevercooked/dsa.cpp/tree/master/1256-rank-transform-of-an-array) |
 | [1447-jump-game-iv](https://github.com/nevercooked/dsa.cpp/tree/master/1447-jump-game-iv) |
+| [1487-cinema-seat-allocation](https://github.com/nevercooked/dsa.cpp/tree/master/1487-cinema-seat-allocation) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/samirjout/dsa.cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nevercooked/dsa.cpp/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/nevercooked/dsa.cpp/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -256,6 +258,7 @@
 | [1081-video-stitching](https://github.com/nevercooked/dsa.cpp/tree/master/1081-video-stitching) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/nevercooked/dsa.cpp/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
+| [1487-cinema-seat-allocation](https://github.com/nevercooked/dsa.cpp/tree/master/1487-cinema-seat-allocation) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/nevercooked/dsa.cpp/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/nevercooked/dsa.cpp/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/nevercooked/dsa.cpp/tree/master/1961-maximum-ice-cream-bars) |
@@ -485,6 +488,7 @@
 | [0029-divide-two-integers](https://github.com/nevercooked/dsa.cpp/tree/master/0029-divide-two-integers) |
 | [0260-single-number-iii](https://github.com/nevercooked/dsa.cpp/tree/master/0260-single-number-iii) |
 | [1054-complement-of-base-10-integer](https://github.com/nevercooked/dsa.cpp/tree/master/1054-complement-of-base-10-integer) |
+| [1487-cinema-seat-allocation](https://github.com/nevercooked/dsa.cpp/tree/master/1487-cinema-seat-allocation) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/samirjout/dsa.cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nevercooked/dsa.cpp/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
