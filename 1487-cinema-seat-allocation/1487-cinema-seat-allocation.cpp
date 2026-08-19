@@ -1,39 +1,19 @@
 class Solution {
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
-        unordered_map<int, unordered_set<int>> rows;
+        unordered_map<int, int> rows;
         for (const auto& seat : reservedSeats) {
-            rows[seat[0]].insert(seat[1]);
+            rows[seat[0]] |= (1 << seat[1]);
         }
         int families = 2 * (n - rows.size());
+        constexpr int leftMask  = (1 << 2) | (1 << 3) | (1 << 4) | (1 << 5); 
+        constexpr int midMask   = (1 << 4) | (1 << 5) | (1 << 6) | (1 << 7);
+        constexpr int rightMask = (1 << 6) | (1 << 7) | (1 << 8) | (1 << 9);
         for (const auto& [row, reserved] : rows) {
-            bool left  = true;
-            bool mid   = true;
-            bool right = true;
-            for (int seat = 2; seat <= 5; ++seat) {
-                if (reserved.find(seat) != reserved.end()) {
-                    left = false;
-                    break;
-                }
-            }
-            for (int seat = 4; seat <= 7; ++seat) {
-                if (reserved.find(seat) != reserved.end()) {
-                    mid = false;
-                    break;
-                }
-            }
-            for (int seat = 6; seat <= 9; ++seat) {
-                if (reserved.find(seat) != reserved.end()) {
-                    right = false;
-                    break;
-                }
-            }
-            if (left && right) {
-                families += 2;
-            }
-            else if (left || mid || right) {
-                families += 1;
-            }
+            bool left  = (reserved & leftMask) == 0;
+            bool mid   = (reserved & midMask) == 0;
+            bool right = (reserved & rightMask) == 0;
+            families += left && right ? 2 : (left || mid || right);
         }
         return families;
     }
