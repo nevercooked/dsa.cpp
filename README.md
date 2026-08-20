@@ -85,6 +85,7 @@
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nevercooked/dsa.cpp/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nevercooked/dsa.cpp/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/nevercooked/dsa.cpp/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/nevercooked/dsa.cpp/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/samirjout/dsa.cpp/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3376-longest-common-suffix-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3376-longest-common-suffix-queries) |
 | [3583-sorted-gcd-pair-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3583-sorted-gcd-pair-queries) |
@@ -610,6 +611,7 @@
 | [2043-cyclically-rotating-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2043-cyclically-rotating-a-grid) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nevercooked/dsa.cpp/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nevercooked/dsa.cpp/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/nevercooked/dsa.cpp/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/nevercooked/dsa.cpp/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3939-process-string-with-special-operations-ii) |
 | [4216-weighted-word-mapping](https://github.com/nevercooked/dsa.cpp/tree/master/4216-weighted-word-mapping) |
