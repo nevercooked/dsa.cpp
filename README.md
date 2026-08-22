@@ -54,6 +54,7 @@
 | [1466-jump-game-v](https://github.com/nevercooked/dsa.cpp/tree/master/1466-jump-game-v) |
 | [1487-cinema-seat-allocation](https://github.com/nevercooked/dsa.cpp/tree/master/1487-cinema-seat-allocation) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nevercooked/dsa.cpp/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1522-stone-game-iii](https://github.com/nevercooked/dsa.cpp/tree/master/1522-stone-game-iii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nevercooked/dsa.cpp/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/nevercooked/dsa.cpp/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -196,6 +197,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/nevercooked/dsa.cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/nevercooked/dsa.cpp/tree/master/0713-subarray-product-less-than-k) |
 | [1240-stone-game-ii](https://github.com/nevercooked/dsa.cpp/tree/master/1240-stone-game-ii) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nevercooked/dsa.cpp/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1833-find-the-highest-altitude](https://github.com/nevercooked/dsa.cpp/tree/master/1833-find-the-highest-altitude) |
 | [2001-jump-game-vii](https://github.com/nevercooked/dsa.cpp/tree/master/2001-jump-game-vii) |
 | [2358-number-of-ways-to-split-array](https://github.com/nevercooked/dsa.cpp/tree/master/2358-number-of-ways-to-split-array) |
