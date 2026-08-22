@@ -543,6 +543,7 @@
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/nevercooked/dsa.cpp/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/nevercooked/dsa.cpp/tree/master/3859-maximum-product-of-two-digits) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/nevercooked/dsa.cpp/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nevercooked/dsa.cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/nevercooked/dsa.cpp/tree/master/3995-gcd-of-odd-and-even-sums) |
