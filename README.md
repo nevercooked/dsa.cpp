@@ -31,6 +31,7 @@
 | [0503-next-greater-element-ii](https://github.com/nevercooked/dsa.cpp/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/nevercooked/dsa.cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nevercooked/dsa.cpp/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/nevercooked/dsa.cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/nevercooked/dsa.cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0723-candy-crush](https://github.com/nevercooked/dsa.cpp/tree/master/0723-candy-crush) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/samirjout/dsa.cpp/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -320,6 +321,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/samirjout/dsa.cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/samirjout/dsa.cpp/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/samirjout/dsa.cpp/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/nevercooked/dsa.cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/nevercooked/dsa.cpp/tree/master/0713-subarray-product-less-than-k) |
 | [2001-jump-game-vii](https://github.com/nevercooked/dsa.cpp/tree/master/2001-jump-game-vii) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/samirjout/dsa.cpp/tree/master/2786-find-the-longest-semi-repetitive-substring) |
