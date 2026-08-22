@@ -38,6 +38,7 @@
 | [0909-stone-game](https://github.com/nevercooked/dsa.cpp/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/samirjout/dsa.cpp/tree/master/0943-sum-of-subarray-minimums) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/samirjout/dsa.cpp/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [1019-squares-of-a-sorted-array](https://github.com/nevercooked/dsa.cpp/tree/master/1019-squares-of-a-sorted-array) |
 | [1066-fixed-point](https://github.com/nevercooked/dsa.cpp/tree/master/1066-fixed-point) |
 | [1081-video-stitching](https://github.com/nevercooked/dsa.cpp/tree/master/1081-video-stitching) |
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
@@ -164,6 +165,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/nevercooked/dsa.cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-employee-free-time](https://github.com/nevercooked/dsa.cpp/tree/master/0761-employee-free-time) |
 | [0900-reordered-power-of-2](https://github.com/samirjout/dsa.cpp/tree/master/0900-reordered-power-of-2) |
+| [1019-squares-of-a-sorted-array](https://github.com/nevercooked/dsa.cpp/tree/master/1019-squares-of-a-sorted-array) |
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
 | [1256-rank-transform-of-an-array](https://github.com/nevercooked/dsa.cpp/tree/master/1256-rank-transform-of-an-array) |
 | [1466-jump-game-v](https://github.com/nevercooked/dsa.cpp/tree/master/1466-jump-game-v) |
@@ -214,6 +216,7 @@
 | [0344-reverse-string](https://github.com/nevercooked/dsa.cpp/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/nevercooked/dsa.cpp/tree/master/0392-is-subsequence) |
 | [0723-candy-crush](https://github.com/nevercooked/dsa.cpp/tree/master/0723-candy-crush) |
+| [1019-squares-of-a-sorted-array](https://github.com/nevercooked/dsa.cpp/tree/master/1019-squares-of-a-sorted-array) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/samirjout/dsa.cpp/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/nevercooked/dsa.cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nevercooked/dsa.cpp/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
