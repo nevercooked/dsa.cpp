@@ -81,6 +81,7 @@
 | [2550-words-within-two-edits-of-dictionary](https://github.com/nevercooked/dsa.cpp/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2554-minimum-total-distance-traveled](https://github.com/nevercooked/dsa.cpp/tree/master/2554-minimum-total-distance-traveled) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nevercooked/dsa.cpp/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2634-minimum-common-value](https://github.com/nevercooked/dsa.cpp/tree/master/2634-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/samirjout/dsa.cpp/tree/master/2685-first-completely-painted-row-or-column) |
 | [2714-left-and-right-sum-differences](https://github.com/nevercooked/dsa.cpp/tree/master/2714-left-and-right-sum-differences) |
 | [2721-sum-of-distances](https://github.com/nevercooked/dsa.cpp/tree/master/2721-sum-of-distances) |
@@ -139,6 +140,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nevercooked/dsa.cpp/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/nevercooked/dsa.cpp/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samirjout/dsa.cpp/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2634-minimum-common-value](https://github.com/nevercooked/dsa.cpp/tree/master/2634-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/samirjout/dsa.cpp/tree/master/2685-first-completely-painted-row-or-column) |
 | [2721-sum-of-distances](https://github.com/nevercooked/dsa.cpp/tree/master/2721-sum-of-distances) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nevercooked/dsa.cpp/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -229,6 +231,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nevercooked/dsa.cpp/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/nevercooked/dsa.cpp/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nevercooked/dsa.cpp/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2634-minimum-common-value](https://github.com/nevercooked/dsa.cpp/tree/master/2634-minimum-common-value) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/nevercooked/dsa.cpp/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nevercooked/dsa.cpp/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -363,6 +366,7 @@
 | [1066-fixed-point](https://github.com/nevercooked/dsa.cpp/tree/master/1066-fixed-point) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/nevercooked/dsa.cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/samirjout/dsa.cpp/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2634-minimum-common-value](https://github.com/nevercooked/dsa.cpp/tree/master/2634-minimum-common-value) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/samirjout/dsa.cpp/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3583-sorted-gcd-pair-queries) |
