@@ -111,6 +111,7 @@
 | [4007-maximum-total-subarray-value-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nevercooked/dsa.cpp/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/nevercooked/dsa.cpp/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/nevercooked/dsa.cpp/tree/master/4107-find-missing-elements) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/nevercooked/dsa.cpp/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -157,6 +158,7 @@
 | [3750-closest-equal-element-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3750-closest-equal-element-queries) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nevercooked/dsa.cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/nevercooked/dsa.cpp/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/nevercooked/dsa.cpp/tree/master/4107-find-missing-elements) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/nevercooked/dsa.cpp/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
