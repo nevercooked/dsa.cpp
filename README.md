@@ -237,6 +237,7 @@
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/nevercooked/dsa.cpp/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nevercooked/dsa.cpp/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nevercooked/dsa.cpp/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -275,6 +276,7 @@
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/nevercooked/dsa.cpp/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/nevercooked/dsa.cpp/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3939-process-string-with-special-operations-ii) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nevercooked/dsa.cpp/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [4216-weighted-word-mapping](https://github.com/nevercooked/dsa.cpp/tree/master/4216-weighted-word-mapping) |
 ## Greedy
 |  |
@@ -539,6 +541,7 @@
 | [3626-smallest-divisible-digit-product-i](https://github.com/nevercooked/dsa.cpp/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/nevercooked/dsa.cpp/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nevercooked/dsa.cpp/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
