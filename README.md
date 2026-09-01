@@ -103,6 +103,7 @@
 | [3750-closest-equal-element-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3750-closest-equal-element-queries) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/nevercooked/dsa.cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3919-network-recovery-pathways](https://github.com/nevercooked/dsa.cpp/tree/master/3919-network-recovery-pathways) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nevercooked/dsa.cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nevercooked/dsa.cpp/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -157,6 +158,7 @@
 | [3583-sorted-gcd-pair-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3583-sorted-gcd-pair-queries) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/nevercooked/dsa.cpp/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3750-closest-equal-element-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3750-closest-equal-element-queries) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/nevercooked/dsa.cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nevercooked/dsa.cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/nevercooked/dsa.cpp/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -474,6 +476,7 @@
 | [2793-count-the-number-of-complete-components](https://github.com/nevercooked/dsa.cpp/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/nevercooked/dsa.cpp/tree/master/3561-remove-methods-from-project) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/nevercooked/dsa.cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nevercooked/dsa.cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
@@ -532,6 +535,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nevercooked/dsa.cpp/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/nevercooked/dsa.cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nevercooked/dsa.cpp/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
 |  |
@@ -605,6 +609,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/samirjout/dsa.cpp/tree/master/2685-first-completely-painted-row-or-column) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/nevercooked/dsa.cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Rolling Hash
 |  |
