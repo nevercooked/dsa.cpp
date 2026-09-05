@@ -120,6 +120,7 @@
 | [4216-weighted-word-mapping](https://github.com/nevercooked/dsa.cpp/tree/master/4216-weighted-word-mapping) |
 | [4256-construct-uniform-parity-array-i](https://github.com/nevercooked/dsa.cpp/tree/master/4256-construct-uniform-parity-array-i) |
 | [4284-smallest-stable-index-i](https://github.com/nevercooked/dsa.cpp/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4285-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,6 +217,7 @@
 | [3583-sorted-gcd-pair-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3583-sorted-gcd-pair-queries) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4284-smallest-stable-index-i](https://github.com/nevercooked/dsa.cpp/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4285-smallest-stable-index-ii) |
 ## Union Find
 |  |
 | ------- |
