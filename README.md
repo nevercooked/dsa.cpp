@@ -261,6 +261,7 @@
 | [0392-is-subsequence](https://github.com/nevercooked/dsa.cpp/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/samirjout/dsa.cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/nevercooked/dsa.cpp/tree/master/0812-rotate-string) |
+| [0977-distinct-subsequences-ii](https://github.com/nevercooked/dsa.cpp/tree/master/0977-distinct-subsequences-ii) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/nevercooked/dsa.cpp/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nevercooked/dsa.cpp/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/samirjout/dsa.cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -324,6 +325,7 @@
 | [0804-rotated-digits](https://github.com/nevercooked/dsa.cpp/tree/master/0804-rotated-digits) |
 | [0909-stone-game](https://github.com/nevercooked/dsa.cpp/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/samirjout/dsa.cpp/tree/master/0943-sum-of-subarray-minimums) |
+| [0977-distinct-subsequences-ii](https://github.com/nevercooked/dsa.cpp/tree/master/0977-distinct-subsequences-ii) |
 | [1081-video-stitching](https://github.com/nevercooked/dsa.cpp/tree/master/1081-video-stitching) |
 | [1234-number-of-paths-with-max-score](https://github.com/nevercooked/dsa.cpp/tree/master/1234-number-of-paths-with-max-score) |
 | [1240-stone-game-ii](https://github.com/nevercooked/dsa.cpp/tree/master/1240-stone-game-ii) |
