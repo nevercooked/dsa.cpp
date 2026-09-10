@@ -332,6 +332,7 @@
 | [1013-fibonacci-number](https://github.com/nevercooked/dsa.cpp/tree/master/1013-fibonacci-number) |
 | [1081-video-stitching](https://github.com/nevercooked/dsa.cpp/tree/master/1081-video-stitching) |
 | [1234-number-of-paths-with-max-score](https://github.com/nevercooked/dsa.cpp/tree/master/1234-number-of-paths-with-max-score) |
+| [1236-n-th-tribonacci-number](https://github.com/nevercooked/dsa.cpp/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/nevercooked/dsa.cpp/tree/master/1240-stone-game-ii) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nevercooked/dsa.cpp/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1466-jump-game-v](https://github.com/nevercooked/dsa.cpp/tree/master/1466-jump-game-v) |
@@ -583,6 +584,7 @@
 | [0903-implement-rand10-using-rand7](https://github.com/nevercooked/dsa.cpp/tree/master/0903-implement-rand10-using-rand7) |
 | [0909-stone-game](https://github.com/nevercooked/dsa.cpp/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/nevercooked/dsa.cpp/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/nevercooked/dsa.cpp/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/nevercooked/dsa.cpp/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/nevercooked/dsa.cpp/tree/master/1522-stone-game-iii) |
 | [1968-maximum-building-height](https://github.com/nevercooked/dsa.cpp/tree/master/1968-maximum-building-height) |
@@ -769,4 +771,5 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/nevercooked/dsa.cpp/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nevercooked/dsa.cpp/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/nevercooked/dsa.cpp/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
