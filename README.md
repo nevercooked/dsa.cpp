@@ -21,6 +21,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nevercooked/dsa.cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/samirjout/dsa.cpp/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nevercooked/dsa.cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/nevercooked/dsa.cpp/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/nevercooked/dsa.cpp/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/samirjout/dsa.cpp/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/samirjout/dsa.cpp/tree/master/0238-product-of-array-except-self) |
@@ -321,6 +322,7 @@
 | [0118-pascals-triangle](https://github.com/nevercooked/dsa.cpp/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nevercooked/dsa.cpp/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samirjout/dsa.cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/nevercooked/dsa.cpp/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/nevercooked/dsa.cpp/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/nevercooked/dsa.cpp/tree/master/0396-rotate-function) |
 | [0576-out-of-boundary-paths](https://github.com/nevercooked/dsa.cpp/tree/master/0576-out-of-boundary-paths) |
