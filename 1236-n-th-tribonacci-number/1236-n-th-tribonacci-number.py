@@ -1,11 +1,7 @@
 class Solution:
     def tribonacci(self, n: int) -> int:
-        if n == 0:
-            return 0
-        if n == 1:
-            return 1
-        if n == 2:
-            return 1
+        if n in (0, 1, 2):
+            return min(n, 1)
         dp    = [0] * (n + 1)
         dp[0] = 0
         dp[1] = 1
