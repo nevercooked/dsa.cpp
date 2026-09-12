@@ -319,6 +319,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/nevercooked/dsa.cpp/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nevercooked/dsa.cpp/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/nevercooked/dsa.cpp/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/nevercooked/dsa.cpp/tree/master/0118-pascals-triangle) |
@@ -575,6 +576,7 @@
 | [0029-divide-two-integers](https://github.com/nevercooked/dsa.cpp/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/nevercooked/dsa.cpp/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nevercooked/dsa.cpp/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/nevercooked/dsa.cpp/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/samirjout/dsa.cpp/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nevercooked/dsa.cpp/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/nevercooked/dsa.cpp/tree/master/0204-count-primes) |
@@ -746,6 +748,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/nevercooked/dsa.cpp/tree/master/0062-unique-paths) |
 | [3583-sorted-gcd-pair-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3583-sorted-gcd-pair-queries) |
 ## Game Theory
 |  |
