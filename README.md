@@ -39,6 +39,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/samirjout/dsa.cpp/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/nevercooked/dsa.cpp/tree/master/0747-min-cost-climbing-stairs) |
 | [0761-employee-free-time](https://github.com/nevercooked/dsa.cpp/tree/master/0761-employee-free-time) |
+| [0864-image-overlap](https://github.com/nevercooked/dsa.cpp/tree/master/0864-image-overlap) |
 | [0907-koko-eating-bananas](https://github.com/nevercooked/dsa.cpp/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/nevercooked/dsa.cpp/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/samirjout/dsa.cpp/tree/master/0943-sum-of-subarray-minimums) |
@@ -628,6 +629,7 @@
 | [0079-word-search](https://github.com/nevercooked/dsa.cpp/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/nevercooked/dsa.cpp/tree/master/0463-island-perimeter) |
 | [0723-candy-crush](https://github.com/nevercooked/dsa.cpp/tree/master/0723-candy-crush) |
+| [0864-image-overlap](https://github.com/nevercooked/dsa.cpp/tree/master/0864-image-overlap) |
 | [1234-number-of-paths-with-max-score](https://github.com/nevercooked/dsa.cpp/tree/master/1234-number-of-paths-with-max-score) |
 | [1380-number-of-closed-islands](https://github.com/nevercooked/dsa.cpp/tree/master/1380-number-of-closed-islands) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
