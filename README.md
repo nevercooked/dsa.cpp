@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/nevercooked/dsa.cpp/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/samirjout/dsa.cpp/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/nevercooked/dsa.cpp/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/nevercooked/dsa.cpp/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nevercooked/dsa.cpp/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/nevercooked/dsa.cpp/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/nevercooked/dsa.cpp/tree/master/0118-pascals-triangle) |
@@ -322,6 +323,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nevercooked/dsa.cpp/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/nevercooked/dsa.cpp/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nevercooked/dsa.cpp/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/nevercooked/dsa.cpp/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/nevercooked/dsa.cpp/tree/master/0115-distinct-subsequences) |
@@ -629,6 +631,7 @@
 | [0036-valid-sudoku](https://github.com/nevercooked/dsa.cpp/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/nevercooked/dsa.cpp/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nevercooked/dsa.cpp/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/nevercooked/dsa.cpp/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nevercooked/dsa.cpp/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/nevercooked/dsa.cpp/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/nevercooked/dsa.cpp/tree/master/0463-island-perimeter) |
