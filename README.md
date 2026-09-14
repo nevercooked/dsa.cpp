@@ -590,6 +590,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/nevercooked/dsa.cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0755-reach-a-number](https://github.com/samirjout/dsa.cpp/tree/master/0755-reach-a-number) |
 | [0804-rotated-digits](https://github.com/nevercooked/dsa.cpp/tree/master/0804-rotated-digits) |
+| [0866-rectangle-overlap](https://github.com/nevercooked/dsa.cpp/tree/master/0866-rectangle-overlap) |
 | [0900-reordered-power-of-2](https://github.com/samirjout/dsa.cpp/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/nevercooked/dsa.cpp/tree/master/0903-implement-rand10-using-rand7) |
 | [0909-stone-game](https://github.com/nevercooked/dsa.cpp/tree/master/0909-stone-game) |
@@ -785,4 +786,8 @@
 | [0070-climbing-stairs](https://github.com/nevercooked/dsa.cpp/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nevercooked/dsa.cpp/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/nevercooked/dsa.cpp/tree/master/1236-n-th-tribonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/nevercooked/dsa.cpp/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
